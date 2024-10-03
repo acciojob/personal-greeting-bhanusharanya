@@ -17,7 +17,7 @@ const Greeting = () => {
 
   return (
     <div id="root">
-      <h1>Greeting App</h1>
+      <p>Greeting App</p>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
